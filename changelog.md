@@ -8,3 +8,9 @@
 
 - Fixed incorrect binary directory in installer
 - Implemented a new execution method
+
+## v6.0.2 Minor Update
+
+- Fixed storage I/O tweak compatibility for eMMC and UFS devices
+- Improved safety by simplifying file write handling and preventing buffer issues
+- Expanded CPU core handling and added root check with basic logging support

@@ -56,3 +56,10 @@ For donation and financial support information, please refer to the official pos
 You may also support the development via:
 
 - **Sociabuzz:** https://sociabuzz.com/riprog/tribe
+
+## Contributors
+
+Thanks to the following people for their contributions and support to this project:
+
+- **ZUANVFX01**  
+  GitHub: https://github.com/ZUANVFX01
