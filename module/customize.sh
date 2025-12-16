@@ -24,12 +24,12 @@ else
 	armv7l | armv8l)
 		ui_print "- Architecture $architecture is supported."
 		ui_print "- Installation continues."
-		cp "$MODPATH/BKT_arm" "$MODPATH/BKT"
+		cp "$MODPATH/system/bin/BKT_arm" "$MODPATH/system/bin/BKT"
 		;;
 	aarch64)
 		ui_print "- Architecture $architecture is supported."
 		ui_print "- Installation continues."
-		cp "$MODPATH/BKT_arm64" "$MODPATH/BKT"
+		cp "$MODPATH/system/bin/BKT_arm64" "$MODPATH/system/bin/BKT"
 		;;
 	*)
 		ui_print "- Architecture $architecture is not supported."
@@ -39,6 +39,6 @@ else
 		;;
 	esac
 fi
-rm "$MODPATH/BKT_arm"
-rm "$MODPATH/BKT_arm64"
-chmod +x "$MODPATH/BKT"
+rm "$MODPATH/system/bin/BKT_arm"
+rm "$MODPATH/system/bin/BKT_arm64"
+chmod +x "$MODPATH/system/bin/BKT"

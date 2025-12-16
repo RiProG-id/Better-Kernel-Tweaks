@@ -16,7 +16,7 @@ Better-Kernel-Tweaks is a utility designed to enhance your device's performance 
 
 ## Changelog
 
-[View Changelog](https://github.com/RiProG-id/Better-Kernel-Tweaks/blob/main/changelog.md
+[View Changelog](https://github.com/RiProG-id/Better-Kernel-Tweaks/blob/main/changelog.md)
 
 ## Compatibility
 
