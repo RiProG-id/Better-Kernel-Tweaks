@@ -1,0 +1,8 @@
+id=BKT
+name=Better Kernel Tweaks
+version=v6.0.0
+versionCode=600
+author=@RiProG
+description=The optimization module is designed to improve the efficiency of the Android kernel, ensuring increased stability.
+axeronPlugin=13000
+updateJson=https://raw.githubusercontent.com/RiProG-id/Better-Kernel-Tweaks/refs/heads/main/update.json
